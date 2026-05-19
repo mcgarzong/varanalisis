@@ -384,4 +384,4 @@ Sistema experimental de monitoreo lumínico urbano desarrollado con sensores IoT
 
 📍 Universidad EAFIT — Medellín, Colombia
 """)
-```
+
